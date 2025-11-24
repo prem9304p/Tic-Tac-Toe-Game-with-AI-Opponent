@@ -1,1 +1,4 @@
-# Tic-Tac-Toe-Game-with-AI-Opponent
+Stone,Paper,Scissors Game Overview of the projectThis is the classic two player game where the opponent is a computer,whose choice is determined randomly. The outcome of the game is based on standard game rulea)Scissors beats paper b)Paper beats stone c)Stone beats scissors Features ● It is a single player game. ● Interactive gameplay. ● The computer move is random using python’s “random” module. ● The game clearly announces the result i.e. win,lose or draw. Technologies/tools used ● Language:- Python ● Modules:- Random Steps to install & run the project
+1. Install python latest version
+2. Download the code file and save the file game.py
+3. Open the file in Terminal or Any IDEs like VScode Instruction For Testing ● When the game starts,there are three options-stone,paper or scissors. ● Choose exactly one option. ● The computer will randomly choose the option and give the result
